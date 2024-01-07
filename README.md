@@ -6,7 +6,7 @@ Pratinav Seth & Abhilash K. Pai
 <br>
 (Manipal Institute of Technology)
 --------------------------------------------------------------------------------------------
-Code Coming Soon
+Code Coming Soon ( By last week of Jan 24 😅)
 
 Accepted at the **Pretraining Workshop** at **WACV 2024**. <br>
 
